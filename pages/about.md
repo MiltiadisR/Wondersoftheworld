@@ -11,9 +11,28 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Introduction:**
+Welcome to WoTW, your gateway to the fascinating world of the Wonders of the World. We are passionate about exploring and celebrating the extraordinary achievements of human civilization throughout history.
+
+**Our Mission:**
+At WoTW, our mission is to educate, inspire, and instill a sense of wonder about the remarkable feats of architecture, engineering, and creativity that have shaped our world. Through engaging content, stunning visuals, and in-depth research, we aim to bring the stories behind these wonders to life.
+
+**What We Cover:**
+Ancient Wonders: Discover the awe-inspiring structures of antiquity, from the Pyramids of Giza to the Hanging Gardens of Babylon.
+Modern Wonders: Explore the marvels of contemporary engineering and design, such as the Great Wall of China and the Statue of Liberty.
+Natural Wonders: Journey through the breathtaking landscapes and geological formations that leave us in awe of the Earth's natural beauty.
+
+**Our Team:**
+Raptis Miltiadis
+Kontou Aikaterini
+
+**Get Involved:**
+We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us [link to contact page or social media channels].
+
+**Support Us:**
+If you're as captivated by the Wonders of the World as we are, consider supporting our mission. [Optional: Provide information on how readers can contribute, such as through donations or merchandise.]
+
+**Connect With Us:**
+[Include links to your social media profiles.]
+
+Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
