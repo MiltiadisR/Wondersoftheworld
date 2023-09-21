@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/me.jpg" alt="Thiago Rossener" width="200">
 
 # About
 
@@ -28,9 +28,6 @@ Kontou Aikaterini
 
 **Get Involved:**
 We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us [link to contact page or social media channels].
-
-**Support Us:**
-If you're as captivated by the Wonders of the World as we are, consider supporting our mission. [Optional: Provide information on how readers can contribute, such as through donations or merchandise.]
 
 **Connect With Us:**
 [Include links to your social media profiles.]
