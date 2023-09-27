@@ -28,6 +28,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 **Our Team:**
 
 <html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -89,5 +90,3 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 </html>
 
 Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
-
-{% exlude footer.html %}
