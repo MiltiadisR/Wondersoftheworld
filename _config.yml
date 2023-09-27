@@ -18,8 +18,8 @@ menu:
   - title: Contact
     url: /contact
   - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+    url: /feed
+email: miltossraptiss@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
