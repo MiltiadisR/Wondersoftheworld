@@ -10,7 +10,7 @@ permalink: /about/
 <img src="https://github.com/MiltiadisR/Wondersoftheworld/blob/2e14aa5cc5142b78eae51a8fbbfc9aea0b8248bf/assets/img/me.jpg" data-canonical-src="https://github.com/MiltiadisR/Wondersoftheworld/blob/2e14aa5cc5142b78eae51a8fbbfc9aea0b8248bf/assets/img/me.jpg" alt="Raptis Miltiadis" width="200">
 
 ... which is shown in the screenshot below:
-![My helpful screenshot](assets/img/me.jpg)
+![My helpful screenshot]({{ site.url }}{{ site.baseurl }}/assets/img/me.jpg)
 
 # About
 
