@@ -5,6 +5,7 @@ date: '2020-02-27 01:53:59'
 title: About
 description: Some description.
 permalink: /about/
+footer: false
 ---
 
 # About
@@ -44,7 +45,6 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 }
 .fa:hover {
     opacity: 0.7;
-    background color: #3b5998;
 }
 .fa-facebook {
   color: #000;
