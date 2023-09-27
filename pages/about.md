@@ -20,40 +20,44 @@ Ancient Wonders: Discover the awe-inspiring structures of antiquity, from the Py
 Modern Wonders: Explore the marvels of contemporary engineering and design, such as the Great Wall of China and the Statue of Liberty.
 Natural Wonders: Journey through the breathtaking landscapes and geological formations that leave us in awe of the Earth's natural beauty.
 
-**Our Team:**
-Raptis Miltiadis
-Kontou Aikaterini
-
 **Get Involved:**
 We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free [reach out to us!][contact]
 
 [contact]: {{ site.url }}{{ site.baseurl }}/contact/
 
-**Connect With Us:**
+**Our Team:**
+Raptis Miltiadis
+Kontou Aikaterini
 
 <div class="container">
-  <div class="column">
-    <div class="row">
-      <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
+    <div class="column">
+        <div class="row">
+            <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
+        </div>
+        <div class="row">
+            Raptis Miltiadis
+        </div>
+        <div class="row">
+            <div class="item">Item 1</div>
+            <div class="item">Item 2</div>
+            <div class="item">Item 3</div>
+            <div class="item">Item 4</div>
+        </div>
     </div>
-    <div class="row">
-        <div class="item">Item 1</div>
-        <div class="item">Item 2</div>
-        <div class="item">Item 3</div>
-        <div class="item">Item 4</div>
+    <div class="column">
+        <div class="row">
+        <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
+        </div>
+        <div class="row">
+            Kontou Aikaterini
+        </div>
+        <div class="row">
+            <div class="item">Item 5</div>
+            <div class="item">Item 6</div>
+            <div class="item">Item 7</div>
+            <div class="item">Item 8</div>
+        </div>
     </div>
-  </div>
-  <div class="column">
-    <div class="row">
-      <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
-    </div>
-    <div class="row">
-        <div class="item">Item 5</div>
-        <div class="item">Item 6</div>
-        <div class="item">Item 7</div>
-        <div class="item">Item 8</div>
-    </div>
-  </div>
 </div>
 
 
