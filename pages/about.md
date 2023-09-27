@@ -46,13 +46,13 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
     opacity: 0.7;
 }
 .fa-facebook {
-  color: #000000;
+  color: #000;
 }
 .fa-twitter {
-  color: #000000;
+  color: #000;
 }
 .fa-instagram {
-  color: #000000;
+  color: #000;
 }
 </style>
 </head>
