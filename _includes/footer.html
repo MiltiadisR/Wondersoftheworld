@@ -1,4 +1,29 @@
 <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h3>About Us</h3>
+        <p>A brief description of your website or organization.</p>
+      </div>
+      <div class="col-md-4">
+        <h3>Links</h3>
+        <ul>
+          {% include links.html %}
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <h3>Connect With Us</h3>
+        <ul>
+          <li><a href="https://www.facebook.com/miltos.raptis.9/">Facebook</a></li>
+          <li><a href="https://twitter.com/miltos02143630">Twitter</a></li>
+          <li><a href="https://www.instagram.com/miltos.raptis/">Instagram</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<footer>
     <p>
       {% if site.github_username %}
         <a href="https://github.com/{{ site.github_username }}" title="Github">
