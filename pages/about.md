@@ -71,19 +71,19 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         <div class="row">
             <div class="social-buttons">
                 <a href="#" class="social-button social-button--facebook" aria-label="Facebook">
-                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-facebook"></i>
                 </a>
                 <a href="#" class="social-button social-button--linkedin" aria-label="LinkedIn">
-                <i class="fab fa-linkedin-in"></i>
+                <i class="fab fa-linkedin"></i>
                 </a>
                 <a href="#" class="social-button social-button--snapchat" aria-label="Snapchat">
-                <i class="fab fa-snapchat-ghost"></i>
+                <i class="fab fa-snapchat"></i>
                 </a>
                 <a href="#" class="social-button social-button--github" aria-label="GitHub">
                 <i class="fab fa-github"></i>
                 </a>
-                <a href="#" class="social-button social-button--codepen" aria-label="CodePen">
-                <i class="fab fa-codepen"></i>
+                <a href="#" class="social-button social-button--instagram" aria-label="CodePen">
+                <i class="fab fa-instagram"></i>
                 </a>
             </div>
         </div>
