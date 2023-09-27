@@ -39,7 +39,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
-  border-radius: 50%;
+  border-radius: 100%;
   justify-content: center;
 }
 .fa:hover {
@@ -54,10 +54,9 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   color: #ffffff;
 }
 .fa-instagram {
-  background-color: #de463b;
+  background: #125688;
   color: #ffffff;
 }
-
 </style>
 </head>
 <body>
@@ -69,22 +68,10 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         <div class="row">
             Raptis Miltiadis
         </div>
-        <div class="row" style="width: 32px;">
-            <div class="icon">
-            <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
-            <svg><use xlink:href="#icon-facebook"></use></svg>
-            </a>
-            </div>
-            <div class="icon">
-            <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
-          <svg><use xlink:href="#icon-instagram"></use></svg>
-            </a>
-            </div>
-            <div class="icon">
-            <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
-            <svg><use xlink:href="#icon-twitter"></use></svg>
-            </a>
-            </div>
+        <div class="row">
+            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-instagram"></a>
+            <a href="#" class="fa fa-twitter"></a>
         </div>
     </div>
     <div class="column">
@@ -94,21 +81,53 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         <div class="row">
             Kontou Aikaterini
         </div>
-        <div class="row" style="height: 32px;">
-        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
-          <svg><use xlink:href="#icon-facebook"></use></svg>
-        </a>
-        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
-          <svg><use xlink:href="#icon-instagram"></use></svg>
-        </a>
-        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
-          <svg><use xlink:href="#icon-twitter"></use></svg>
-        </a>
+        <div class="row">
+        <a href="#" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-instagram"></a>
+        <a href="#" class="fa fa-twitter"></a>
         </div>
     </div>
 </div>
 
+  <div class="social-icons">
+    <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
+    <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
+    <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
+  </div>
 </body>
 </html>
+
+
+<div class="container">
+    <div class="column">
+        <div class="row">
+            <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
+        </div>
+        <div class="row">
+            Raptis Miltiadis
+        </div>
+        <div class="row">
+            <div class="item">Item 1</div>
+            <div class="item">Item 2</div>
+            <div class="item">Item 3</div>
+            <div class="item">Item 4</div>
+        </div>
+    </div>
+    <div class="column">
+        <div class="row">
+        <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
+        </div>
+        <div class="row">
+            Kontou Aikaterini
+        </div>
+        <div class="row">
+            <div class="item">Item 5</div>
+            <div class="item">Item 6</div>
+            <div class="item">Item 7</div>
+            <div class="item">Item 8</div>
+        </div>
+    </div>
+</div>
+
 
 Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
