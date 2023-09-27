@@ -25,14 +25,19 @@ Raptis Miltiadis
 Kontou Aikaterini
 
 **Get Involved:**
-We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free [reach out to us!][contact].
+We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free [reach out to us!][contact]
 
 [contact]: {{ site.url }}{{ site.baseurl }}/contact/
 
 **Connect With Us:**
 <div class="row">
   <div class="column">
-  <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
+    <div class="row">
+        <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
+        </div>
+    <div class="row">
+        <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
+        </div>
   </div>
   <div class="column">
   <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
