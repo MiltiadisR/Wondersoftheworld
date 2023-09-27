@@ -7,22 +7,21 @@
 }
   
 .column {
-    display: flex;
-    flex-direction: column;
+    float: left;
+    width: 50%;
 }
   
-.row {
-    display: flex;
-    flex-wrap: wrap;
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
-  
+
 .item {
     flex: 1;
     padding: 10px;
     border: 1px solid #ccc;
     margin: 5px;
     text-align: center;
-    width: calc(50% - 10px); /* Adjusted width to make two columns equal */
-    box-sizing: border-box; /* This ensures padding and border are included in the width */
-  }
-  
+}
