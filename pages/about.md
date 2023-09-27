@@ -26,8 +26,66 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 [contact]: {{ site.url }}{{ site.baseurl }}/contact/
 
 **Our Team:**
-Raptis Miltiadis
-Kontou Aikaterini
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-K8MI7r8Yj5HYWD7i/2qOjsnyXnOOm7H4cDvL8vtbwHSnsQb2hr5BYqmqjmc9f0J9" crossorigin="anonymous">
+  <style>
+    .social-icons {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .social-icons a {
+      text-decoration: none;
+      margin: 10px;
+      color: #333;
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+    <div class="column">
+        <div class="row">
+            <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
+        </div>
+        <div class="row">
+            Raptis Miltiadis
+        </div>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
+            <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
+        </div>
+    </div>
+    <div class="column">
+        <div class="row">
+        <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
+        </div>
+        <div class="row">
+            Kontou Aikaterini
+        </div>
+        <div class="social-icons">
+        <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
+        <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
+        <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
+        </div>
+    </div>
+</div>
+
+  <div class="social-icons">
+    <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
+    <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
+    <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
+  </div>
+</body>
+</html>
+
 
 <div class="container">
     <div class="column">
