@@ -27,7 +27,6 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 
 **Our Team:**
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,7 +44,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
     opacity: 0.7;
 }
 .fa-facebook {
-  background: #3B5998;
+  background: #000000;
   color: white;
 }
 .fa-twitter {
