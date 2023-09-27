@@ -46,16 +46,13 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
     opacity: 0.7;
 }
 .fa-facebook {
-  background: #336699;
-  color: #ffffff;
+  color: #000000;
 }
 .fa-twitter {
-  background: #6699ff;
-  color: #ffffff;
+  color: #000000;
 }
 .fa-instagram {
-  background: #125688;
-  color: #ffffff;
+  color: #000000;
 }
 </style>
 </head>
@@ -69,23 +66,9 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Raptis Miltiadis
         </div>
         <div class="row">
-            <div class="social-buttons">
-                <a href="#" class="social-button social-button--facebook" aria-label="Facebook">
-                <i class="fab fa-facebook"></i>
-                </a>
-                <a href="#" class="social-button social-button--linkedin" aria-label="LinkedIn">
-                <i class="fab fa-linkedin"></i>
-                </a>
-                <a href="#" class="social-button social-button--snapchat" aria-label="Snapchat">
-                <i class="fab fa-snapchat"></i>
-                </a>
-                <a href="#" class="social-button social-button--github" aria-label="GitHub">
-                <i class="fab fa-github"></i>
-                </a>
-                <a href="#" class="social-button social-button--instagram" aria-label="CodePen">
-                <i class="fab fa-instagram"></i>
-                </a>
-            </div>
+            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-instagram"></a>
+            <a href="#" class="fa fa-twitter"></a>
         </div>
     </div>
     <div class="column">
