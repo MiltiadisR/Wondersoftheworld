@@ -57,10 +57,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   background-color: #de463b;
   color: #ffffff;
 }
-.icon-instagram {
-  width: 30px; /* Adjust the width as needed */
-  height: 30px;
-  }
+
 </style>
 </head>
 <body>
@@ -73,15 +70,21 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Raptis Miltiadis
         </div>
         <div class="row">
+            <div class="icon">
             <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
-          <svg><use xlink:href="#icon-facebook"></use></svg>
-        </a>
+            <svg><use xlink:href="#icon-facebook"></use></svg>
+            </a>
+            </div>
+            <div class="icon">
             <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
           <svg><use xlink:href="#icon-instagram"></use></svg>
-        </a>
+            </a>
+            </div>
+            <div class="icon">
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
-          <svg><use xlink:href="#icon-twitter"></use></svg>
-        </a>
+            <svg><use xlink:href="#icon-twitter"></use></svg>
+            </a>
+            </div>
         </div>
     </div>
     <div class="column">
