@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" alt="Raptis Miltiadis">
+<img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis">
 
 
 ![Raptis Miltiadis]({{ site.url }}{{ site.baseurl }}/assets/img/me.jpg){:height="512px" width="512px" }
@@ -35,7 +35,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 **Connect With Us:**
 <div class="row">
   <div class="column">
-  <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" alt="Raptis Miltiadis" width="128px">
+  <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
   </div>
   <div class="column">
   <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
