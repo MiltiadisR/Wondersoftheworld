@@ -7,11 +7,6 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis">
-
-
-![Raptis Miltiadis]({{ site.url }}{{ site.baseurl }}/assets/img/me.jpg){:height="512px" width="512px" }
-
 # About
 
 **Introduction:**
@@ -30,7 +25,9 @@ Raptis Miltiadis
 Kontou Aikaterini
 
 **Get Involved:**
-We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us ![reach out to us!]({{ site.url }}/contact/).
+We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us [reach out to us!][contact]].
+
+[contact]: {{ site.url }}/contact/
 
 **Connect With Us:**
 <div class="row">
