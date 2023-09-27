@@ -7,10 +7,12 @@ description: Some description.
 permalink: /about/
 ---
 
-<img src="https://github.com/MiltiadisR/Wondersoftheworld/blob/2e14aa5cc5142b78eae51a8fbbfc9aea0b8248bf/assets/img/me.jpg" data-canonical-src="https://github.com/MiltiadisR/Wondersoftheworld/blob/2e14aa5cc5142b78eae51a8fbbfc9aea0b8248bf/assets/img/me.jpg" alt="Raptis Miltiadis" width="200">
+<img class="img-rounded" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg"z alt="Raptis Miltiadis" width="200">
+
+<img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" alt="Raptis Miltiadis">
 
 
-![Raptis Miltiadis]({{ site.url }}{{ site.baseurl }}/assets/img/me.jpg){:height="512px" width="512px"}
+![Raptis Miltiadis]({{ site.url }}{{ site.baseurl }}/assets/img/me.jpg){:height="512px" width="512px" }
 
 # About
 
