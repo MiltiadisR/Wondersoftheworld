@@ -91,7 +91,9 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 
   <div class="social-icons">
     <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
-    <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+          <svg><use xlink:href="#icon-instagram"></use></svg>
+        </a>
     <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
   </div>
 </body>
