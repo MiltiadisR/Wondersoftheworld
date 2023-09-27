@@ -33,6 +33,13 @@ Kontou Aikaterini
 We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us [link to contact page or social media channels].
 
 **Connect With Us:**
-[Include links to your social media profiles.]
+<div class="row">
+  <div class="column">
+  <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" alt="Raptis Miltiadis">
+  </div>
+  <div class="column">
+  <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" alt="Raptis Miltiadis">
+  </div>
+</div>
 
 Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
