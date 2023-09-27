@@ -40,6 +40,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 100%;
+  justify-content: center;
 }
 .fa:hover {
     opacity: 0.7;
@@ -52,26 +53,9 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   background: #6699ff;
   color: #ffffff;
 }
-.fa-linkedin {
-  background: #007bb5;
-  color: #ffffff;
-}
-.fa-youtube {
-  background: #bb0000;
-  color: #ffffff;
-}
 .fa-instagram {
   background: #125688;
   color: #ffffff;
-}
-.fa-pinterest {
-  background: #cb2027;
-  color: #ffffff;
-}
-.fa-snapchat-ghost {
-  background: #fffc00;
-  color: #ffffff;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 </style>
 </head>
@@ -112,38 +96,5 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   </div>
 </body>
 </html>
-
-
-<div class="container">
-    <div class="column">
-        <div class="row">
-            <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
-        </div>
-        <div class="row">
-            Raptis Miltiadis
-        </div>
-        <div class="row">
-            <div class="item">Item 1</div>
-            <div class="item">Item 2</div>
-            <div class="item">Item 3</div>
-            <div class="item">Item 4</div>
-        </div>
-    </div>
-    <div class="column">
-        <div class="row">
-        <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
-        </div>
-        <div class="row">
-            Kontou Aikaterini
-        </div>
-        <div class="row">
-            <div class="item">Item 5</div>
-            <div class="item">Item 6</div>
-            <div class="item">Item 7</div>
-            <div class="item">Item 8</div>
-        </div>
-    </div>
-</div>
-
 
 Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
