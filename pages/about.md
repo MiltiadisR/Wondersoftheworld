@@ -58,7 +58,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 </style>
 </head>
 <body>
-<div class="container">
+<div class="container1">
     <div class="column">
         <div class="row">
             <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">

@@ -18,7 +18,7 @@ menu:
   - title: Contact
     url: /contact
   - title: Feed
-    url: /feed
+    url: /feed.xml
 email: miltossraptiss@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
