@@ -25,7 +25,7 @@ Raptis Miltiadis
 Kontou Aikaterini
 
 **Get Involved:**
-We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us [reach out to us!][contact].
+We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free [reach out to us!][contact].
 
 [contact]: {{ site.url }}{{ site.baseurl }}/contact/
 
