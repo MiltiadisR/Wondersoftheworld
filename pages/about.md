@@ -30,7 +30,7 @@ Raptis Miltiadis
 Kontou Aikaterini
 
 **Get Involved:**
-We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us [link to contact page or social media channels].
+We love to hear from fellow wonder-seekers! Whether you have a question, a suggestion, or a story to share, feel free to reach out to us ![reach out to us!]({{ site.url }}/contact/).
 
 **Connect With Us:**
 <div class="row">
