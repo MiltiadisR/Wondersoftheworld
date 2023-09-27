@@ -57,6 +57,10 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   background-color: #de463b;
   color: #ffffff;
 }
+.icon-instagram {
+  width: 30px; /* Adjust the width as needed */
+  height: 30px;
+  }
 </style>
 </head>
 <body>
