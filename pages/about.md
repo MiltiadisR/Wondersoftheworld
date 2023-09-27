@@ -39,7 +39,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
-  border-radius: 100%;
+  border-radius: 50%;
   justify-content: center;
 }
 .fa:hover {
