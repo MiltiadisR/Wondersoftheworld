@@ -66,9 +66,9 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Raptis Miltiadis
         </div>
         <div class="row">
-            <a href="#" class="fa fa-facebook" style="color: #3b5998;"></a>
-            <a href="#" class="fa fa-instagram"></a>
-            <a href="#" class="fa fa-twitter"></a>
+            <a href="https://www.facebook.com/miltos.raptis.9/" class="fa fa-facebook" style="color: #3b5998;"></a>
+            <a href="https://www.instagram.com/miltos.raptis/" class="fa fa-instagram" style="color: #ac2bac;"></a>
+            <a href="https://twitter.com/miltos02143630" class="fa fa-twitter" style="color: #55acee"></a>
         </div>
     </div>
     <div class="column">
@@ -79,43 +79,11 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Kontou Aikaterini
         </div>
         <div class="row">
-        <a href="#" class="fa fa-facebook"></a>
-        <a href="#" class="fa fa-instagram"></a>
-        <a href="#" class="fa fa-twitter"></a>
+            <a href="https://www.facebook.com/profile.php?id=100011579375409" class="fa fa-facebook" style="color: #3b5998;"></a>
+            <a href="https://www.instagram.com/kontoukatherine/" class="fa fa-instagram" style="color: #ac2bac;"></a>
+            <a href="#" class="fa fa-twitter" style="color: #55acee"></a>
         </div>
     </div>
 </div>
-
-<div class="container">
-    <div class="column">
-        <div class="row">
-            <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Miltos.jpg" alt="Raptis Miltiadis" width="128px">
-        </div>
-        <div class="row">
-            Raptis Miltiadis
-        </div>
-        <div class="row">
-            <div class="item">Item 1</div>
-            <div class="item">Item 2</div>
-            <div class="item">Item 3</div>
-            <div class="item">Item 4</div>
-        </div>
-    </div>
-    <div class="column">
-        <div class="row">
-        <img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/Katerina.jpg" alt="Kontou Katerina" width="128px">
-        </div>
-        <div class="row">
-            Kontou Aikaterini
-        </div>
-        <div class="row">
-            <div class="item">Item 5</div>
-            <div class="item">Item 6</div>
-            <div class="item">Item 7</div>
-            <div class="item">Item 8</div>
-        </div>
-    </div>
-</div>
-
 
 Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
