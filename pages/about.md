@@ -39,37 +39,38 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
+  border-radius: 100%;
 }
 .fa:hover {
     opacity: 0.7;
 }
 .fa-facebook {
-  background: #000000;
-  color: white;
+  background: #336699;
+  color: #ffffff;
 }
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+  background: #6699ff;
+  color: #ffffff;
 }
 .fa-linkedin {
   background: #007bb5;
-  color: white;
+  color: #ffffff;
 }
 .fa-youtube {
   background: #bb0000;
-  color: white;
+  color: #ffffff;
 }
 .fa-instagram {
   background: #125688;
-  color: white;
+  color: #ffffff;
 }
 .fa-pinterest {
   background: #cb2027;
-  color: white;
+  color: #ffffff;
 }
 .fa-snapchat-ghost {
   background: #fffc00;
-  color: white;
+  color: #ffffff;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 </style>
