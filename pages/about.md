@@ -69,7 +69,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         <div class="row">
             Raptis Miltiadis
         </div>
-        <div class="row">
+        <div class="row" style="width: 32px;">
             <div class="icon">
             <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
             <svg><use xlink:href="#icon-facebook"></use></svg>
@@ -94,7 +94,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         <div class="row">
             Kontou Aikaterini
         </div>
-        <div class="row">
+        <div class="row" style="width: 32px;">
         <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
           <svg><use xlink:href="#icon-facebook"></use></svg>
         </a>
