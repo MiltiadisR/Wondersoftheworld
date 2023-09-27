@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="assets/img/me.jpg" alt="Raptis Miltiadis" width="200">
+<img class="img-rounded" src="https://github.com/MiltiadisR/Wondersoftheworld/blob/feec6e8e6645328af8df49ac4a5042846a6ac5cf/assets/img/me.jpg" alt="Raptis Miltiadis" width="200">
 
 # About
 
