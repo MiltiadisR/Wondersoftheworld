@@ -44,6 +44,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 }
 .fa:hover {
     opacity: 0.7;
+    background color: #3b5998;
 }
 .fa-facebook {
   color: #000;
