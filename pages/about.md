@@ -9,7 +9,7 @@ permalink: /about/
 
 <img class="img-rounded" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg"z alt="Raptis Miltiadis" width="200">
 
-<img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" alt="Raptis Miltiadis">
+<img class="round-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" alt="Raptis Miltiadis" width="200">
 
 
 ![Raptis Miltiadis]({{ site.url }}{{ site.baseurl }}/assets/img/me.jpg){:height="512px" width="512px" }
