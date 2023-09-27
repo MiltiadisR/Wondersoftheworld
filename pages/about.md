@@ -28,25 +28,52 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 **Our Team:**
 
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-K8MI7r8Yj5HYWD7i/2qOjsnyXnOOm7H4cDvL8vtbwHSnsQb2hr5BYqmqjmc9f0J9" crossorigin="anonymous">
-  <style>
-    .social-icons {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    
-    .social-icons a {
-      text-decoration: none;
-      margin: 10px;
-      color: #333;
-      font-size: 24px;
-    }
-  </style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+</style>
 </head>
 <body>
 <div class="container">
@@ -57,10 +84,10 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         <div class="row">
             Raptis Miltiadis
         </div>
-        <div class="social-icons">
-            <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
-            <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
-            <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
+        <div class="row">
+            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-instagram"></a>
+            <a href="#" class="fa fa-twitter"></a>
         </div>
     </div>
     <div class="column">
@@ -70,10 +97,10 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         <div class="row">
             Kontou Aikaterini
         </div>
-        <div class="social-icons">
-        <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
-        <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
-        <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
+        <div class="row">
+        <a href="#" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-instagram"></a>
+        <a href="#" class="fa fa-twitter"></a>
         </div>
     </div>
 </div>
