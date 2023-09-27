@@ -44,4 +44,24 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   </div>
 </div>
 
+<div class="row">
+    <div class="column">
+        <div class="row">
+            <div class="item">Item 1</div>
+            <div class="item">Item 2</div>
+            <div class="item">Item 2</div>
+            <div class="item">Item 2</div>
+            </div>
+        </div>
+  <div class="column">
+        <div class="row">
+            <div class="item">Item 1</div>
+            <div class="item">Item 2</div>
+            <div class="item">Item 2</div>
+            <div class="item">Item 2</div>
+            </div>
+        </div>
+  </div>
+</div>
+
 Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
