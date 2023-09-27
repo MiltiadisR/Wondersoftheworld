@@ -66,7 +66,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Raptis Miltiadis
         </div>
         <div class="row">
-            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-facebook" style="color: #3b5998;"></a>
             <a href="#" class="fa fa-instagram"></a>
             <a href="#" class="fa fa-twitter"></a>
         </div>
