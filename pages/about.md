@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://raw.githubusercontent.com/Wondersoftheworld/about/assets/img/me.jpg" alt="Raptis Miltiadis" width="200">
+<img src="https://raw.githubusercontent.com/Wondersoftheworld/about/assets/img/me.jpg" alt="Raptis Miltiadis" width="200">
 
 ... which is shown in the screenshot below:
 ![My helpful screenshot](assets/img/me.jpg)
