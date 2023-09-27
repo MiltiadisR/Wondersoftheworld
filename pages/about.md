@@ -69,9 +69,15 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Raptis Miltiadis
         </div>
         <div class="row">
-            <a href="#" class="fa fa-facebook"></a>
-            <a href="#" class="fa fa-instagram"></a>
-            <a href="#" class="fa fa-twitter"></a>
+            <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+          <svg><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+            <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+          <svg><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+            <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+          <svg><use xlink:href="#icon-twitter"></use></svg>
+        </a>
         </div>
     </div>
     <div class="column">
@@ -82,20 +88,19 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Kontou Aikaterini
         </div>
         <div class="row">
-        <a href="#" class="fa fa-facebook"></a>
-        <a href="#" class="fa fa-instagram"></a>
-        <a href="#" class="fa fa-twitter"></a>
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+          <svg><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+          <svg><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+          <svg><use xlink:href="#icon-twitter"></use></svg>
+        </a>
         </div>
     </div>
 </div>
 
-  <div class="social-icons">
-    <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
-    <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
-          <svg><use xlink:href="#icon-instagram"></use></svg>
-        </a>
-    <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
-  </div>
 </body>
 </html>
 
