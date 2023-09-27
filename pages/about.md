@@ -54,7 +54,7 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
   color: #ffffff;
 }
 .fa-instagram {
-  background: #125688;
+  background-color: #de463b;
   color: #ffffff;
 }
 </style>
