@@ -89,3 +89,5 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
 </html>
 
 Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
+
+{% exlude footer.html %}
