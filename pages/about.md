@@ -69,9 +69,23 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
             Raptis Miltiadis
         </div>
         <div class="row">
-            <a href="#" class="fa fa-facebook"></a>
-            <a href="#" class="fa fa-instagram"></a>
-            <a href="#" class="fa fa-twitter"></a>
+            <div class="social-buttons">
+                <a href="#" class="social-button social-button--facebook" aria-label="Facebook">
+                <i class="fab fa-facebook-f"></i>
+                </a>
+                <a href="#" class="social-button social-button--linkedin" aria-label="LinkedIn">
+                <i class="fab fa-linkedin-in"></i>
+                </a>
+                <a href="#" class="social-button social-button--snapchat" aria-label="Snapchat">
+                <i class="fab fa-snapchat-ghost"></i>
+                </a>
+                <a href="#" class="social-button social-button--github" aria-label="GitHub">
+                <i class="fab fa-github"></i>
+                </a>
+                <a href="#" class="social-button social-button--codepen" aria-label="CodePen">
+                <i class="fab fa-codepen"></i>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column">
@@ -88,15 +102,6 @@ We love to hear from fellow wonder-seekers! Whether you have a question, a sugge
         </div>
     </div>
 </div>
-
-  <div class="social-icons">
-    <a href="https://www.facebook.com/YourPage"><i class="fab fa-facebook"></i></a>
-    <a href="https://www.instagram.com/YourPage"><i class="fab fa-instagram"></i></a>
-    <a href="https://twitter.com/YourPage"><i class="fab fa-twitter"></i></a>
-  </div>
-</body>
-</html>
-
 
 <div class="container">
     <div class="column">
