@@ -15,19 +15,19 @@
         <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
     </a>
     <script>
-        var sites = [
-            'http://www.google.com',
-            'http://www.stackoverflow.com',
-            'http://www.example.com',
-            'http://www.youtube.com'
-        ];
-    
-        function randomSite() {
-            var i = parseInt(Math.random() * sites.length);
-            location.href = sites[i];
-        }
-    </script>
-    <a href="#" onclick="randomSite();">Random</a>
+    var sites = [
+        'http://www.google.com',
+        'http://www.stackoverflow.com',
+        'http://www.example.com',
+        'http://www.youtube.com'
+    ];
+
+    function randomSite() {
+        var i = parseInt(Math.random() * sites.length);
+        location.href = sites[i];
+    }
+</script>
+<a href="#" onclick="randomSite();" class="get-theme" role="button">Random</a>
 </header>
 
 <div id="mask" class="overlay"></div>
