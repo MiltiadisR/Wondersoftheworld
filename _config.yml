@@ -106,3 +106,7 @@ exclude: [
 
 # Theme
 #version: v3.1.2
+
+collections:
+  pois:
+    output: true
