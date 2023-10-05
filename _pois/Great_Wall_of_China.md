@@ -1,6 +1,6 @@
 ---
 layout: poi
-wikidatum: Q12501
+wikidatum: Q131013
 title:  Great Wall of China
 ---
 
