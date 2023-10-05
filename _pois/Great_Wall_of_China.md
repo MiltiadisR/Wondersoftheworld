@@ -3,8 +3,6 @@ layout: poi
 wikidatum: Q12501
 title:  Great Wall of China
 background: black
-custom_class: my-color-class
-custom_id: my-color-id
 ---
 
 The Great Wall of China is an ancient fortification, renowned for being the longest wall in the world, stretching approximately 21,196 kilometers (13,171 miles). This architectural marvel is a testament to China's rich history and strategic military ingenuity.
