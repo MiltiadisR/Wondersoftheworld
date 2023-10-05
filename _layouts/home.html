@@ -3,9 +3,9 @@ layout: main
 ---
 
 {% if site.paginate %}
-    {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
+    {% assign post = paginator.post | where_exp:"post","post.is_generated != true" %}
 {% else %}
-    {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
+    {% assign post = site.post | where_exp:"post","post.is_generated != true" %}
 {% endif %}
 
 {% if site.show_hero and paginator == nil or paginator.page == 1 %}
@@ -17,7 +17,7 @@ layout: main
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
-        {% assign featured = posts.first %}
+        {% assign featured = post.first %}
         <section class="hero" style="background-image: url({{ featured.image }})">
             <div class="pixels"></div>
             <div class="gradient"></div>
@@ -40,9 +40,9 @@ layout: main
             </div>
         </section>
     {% endif %}
-    <!-- Posts -->
+    <!-- post -->
     <section id="grid" class="row flex-grid">
-        {% for post in posts offset: offset %}
+        {% for post in post offset: offset %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
@@ -145,7 +145,7 @@ layout: main
         "@type": "ItemList",
         "itemListElement": [
         {% assign limit = 8 %}
-        {% for post in posts limit: limit %}
+        {% for post in post limit: limit %}
             {% assign author = site.authors | where: "name", post.author | first %}
             {
                 "@type": "BlogPosting",
