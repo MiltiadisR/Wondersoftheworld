@@ -1,7 +1,7 @@
 ---
 layout: page
-title: POIs List
-permalink: /pois/
+title: Wonders
+permalink: /wonders/
 
 ---
 

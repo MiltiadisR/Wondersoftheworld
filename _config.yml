@@ -19,6 +19,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: Wonders
+    url: /wonders
+
 email: miltossraptiss@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
@@ -62,7 +65,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
