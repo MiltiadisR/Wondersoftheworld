@@ -4,6 +4,7 @@ wikidatum: Q12501
 title:  Great Wall of China
 ---
 
+<p style="padding-left: 30px;">
 The Great Wall of China is an ancient fortification, renowned for being the longest wall in the world, stretching approximately 21,196 kilometers (13,171 miles). This architectural marvel is a testament to China's rich history and strategic military ingenuity.
 
 **Construction and History**
@@ -37,3 +38,4 @@ The Great Wall has inspired numerous legends and myths, including the poignant t
 Due to natural erosion and human activities, several sections of the Great Wall require ongoing restoration and preservation efforts to maintain their historical integrity.
 
 For more detailed information and specific sections of the Great Wall, refer to [List of Great Wall of China sections.](https://en.wikipedia.org/wiki/List_of_Great_Wall_of_China_sections)
+</p>
