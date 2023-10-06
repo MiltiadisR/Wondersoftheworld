@@ -14,7 +14,7 @@ title:  Great Wall of China
             line-height: 1.6;
             text-align: justify;
             margin-bottom: 20px;
-            font-size: 11px;
+            font-size: 18px;
             padding-left: 5px;
             padding-right: 5px;
         }
