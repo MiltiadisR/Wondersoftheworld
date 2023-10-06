@@ -1,10 +1,21 @@
 ---
-layout: page
+layout: main
 title: Wonders
 permalink: /wonders/
 
 ---
 
+{% if site.paginate %}
+    {% assign pois = paginator.pois | where_exp:"post","post.is_generated != true" %}
+{% else %}
+    {% assign pois = site.pois | where_exp:"post","post.is_generated != true" %}
+{% endif %}
+
+{% if site.show_hero and paginator == nil or paginator.page == 1 %}
+    {% assign offset = 1 %}
+{% else %}
+    {% assign offset = 0 %}
+{% endif %}
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
