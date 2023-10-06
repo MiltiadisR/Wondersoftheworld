@@ -5,7 +5,6 @@ title:  Great Wall of China
 ---
 
 <html lang="en">
-    <title style="padding-left: 30px;">Great Wall of China</title>
     <style><
         h1 {
             text-align: center;
