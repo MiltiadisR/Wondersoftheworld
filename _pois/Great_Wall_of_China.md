@@ -15,8 +15,8 @@ title:  Great Wall of China
             text-align: justify;
             margin-bottom: 20px;
             font-size: 15px;
-            padding-left: 5px;
-            padding-right: 5px;
+            padding-left: 10px;
+            padding-right: 10px;
         }
         a {
             color: #007BFF;
