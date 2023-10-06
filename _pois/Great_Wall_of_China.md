@@ -22,7 +22,6 @@ title:  Great Wall of China
             text-decoration: none;
         }
     </style>
-<h1>Great Wall of China</h1>
 <p>    The <strong>Great Wall of China</strong> stands as an ancient marvel of engineering, recognized globally for its status as the world's longest wall, spanning an astonishing 21,196 kilometers (13,171 miles). Its construction commenced in the 7th century BC and unfolded over centuries, with various Chinese dynasties contributing to its expansion. Initially championed by Qin Shi Huang, the first Emperor of China during the Qin Dynasty (221–206 BC), the most renowned segments, such as Badaling and Mutianyu, were extensively fortified and restored during the Ming Dynasty (1368–1644 AD).</p>
 
 <p>    This monumental structure held a pivotal role in China's history, serving as a formidable defense against invasions, particularly from the north, where nomadic tribes, notably the Xiongnu, posed significant threats. Beyond its utilitarian purpose, the Great Wall embodies the enduring spirit of Chinese civilization.</p>
