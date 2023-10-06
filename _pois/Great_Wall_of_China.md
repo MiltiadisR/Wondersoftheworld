@@ -4,24 +4,15 @@ wikidatum: Q12501
 title:  Great Wall of China
 ---
 
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Great Wall of China</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+    <style><
         h1 {
             text-align: center;
         }
-        p {
+        p { font-family: Arial, sans-serif;
+            line-height: 1.6;
             text-align: justify;
             margin-bottom: 20px;
         }
@@ -30,8 +21,6 @@ title:  Great Wall of China
             text-decoration: none;
         }
     </style>
-</head>
-<body>
     <h1>Great Wall of China</h1>
     <p>The <strong>Great Wall of China</strong> stands as an ancient marvel of engineering, recognized globally for its status as the world's longest wall, spanning an astonishing 21,196 kilometers (13,171 miles). Its construction commenced in the 7th century BC and unfolded over centuries, with various Chinese dynasties contributing to its expansion. Initially championed by Qin Shi Huang, the first Emperor of China during the Qin Dynasty (221–206 BC), the most renowned segments, such as Badaling and Mutianyu, were extensively fortified and restored during the Ming Dynasty (1368–1644 AD).</p>
 
@@ -44,5 +33,4 @@ title:  Great Wall of China
     <p>To ensure the preservation of this historical treasure, ongoing efforts are directed towards the restoration and conservation of deteriorating sections, as natural erosion and human activity have taken their toll.</p>
 
     <p>For detailed information on specific sections of the Great Wall, consult the <a href="https://en.wikipedia.org/wiki/List_of_Great_Wall_of_China_sections">List of Great Wall of China sections</a>.</p>
-</body>
 </html>
