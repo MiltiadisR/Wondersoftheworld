@@ -10,7 +10,7 @@ function get_wikidatum(id){
     var jqxhr = $.getJSON( url, function(data) {
           //console.log( "Success; entities returned: ", Object.keys(data).length );
 
-          let description = get_json_value(['entities',id,'descriptions','en','value'], data);
+          let description = get_json_value(['entities',id,'descriptions','el','value'], data);
           if (description)
             $('#wikidata_descr').text( get_first_upper(description) );
 
