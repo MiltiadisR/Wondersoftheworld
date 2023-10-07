@@ -3,9 +3,7 @@ layout: poi
 wikidatum: Q12501
 title:  Great Wall of China
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg/1000px-The_Great_Wall_of_China_at_Jinshanling.jpg
 ---
 
 <html lang="en">
