@@ -60,7 +60,7 @@ permalink: /wonders/
                                 <img src="{{ post.optimized_image }}" width="100%">
                             </noscript>
                         {% elsif post.image %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.image }}" class="preload">
+                            <img src="/assets/img/placeholder.png" width="300px" height="200px" data-url="{{ post.image }}" class="preload">
                             <noscript>
                                 <img src="{{ post.image }}" width="100%">
                             </noscript>
