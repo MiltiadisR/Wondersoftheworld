@@ -3,7 +3,7 @@ layout: poi
 wikidatum: Q41553
 title:  Colossus of Rhodes
 image: >-
-https://i0.wp.com/www.travelletter.net/wp-content/uploads/2023/03/Colossus-of-Rhodes.jpg
+    https://i0.wp.com/www.travelletter.net/wp-content/uploads/2023/03/Colossus-of-Rhodes.jpg?w=820&ssl=1
 ---
 <p>The <strong>Colossus of Rhodes</strong> was a colossal statue of the Greek god Helios, erected on the island of Rhodes in Greece. This awe-inspiring monument was constructed between 292 and 280 BC, following a successful defense of the island against a siege by the ruler of Cyprus, Antigonus I Monophthalmus. Designed by the sculptor Chares of Lindos, the statue was an embodiment of ancient Greek artistry and engineering prowess. Standing at an estimated height of 33 meters (108 feet), it was considered one of the Seven Wonders of the Ancient World.</p>
 
