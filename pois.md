@@ -6,9 +6,9 @@ permalink: /wonders/
 ---
 
 {% if site.paginate %}
-    {% assign pois = paginator.pois | where_exp:"post","post.is_generated != true" %}
+    {% assign pois = paginator.pois | where_exp:"pois","pois.is_generated != true" %}
 {% else %}
-    {% assign pois = site.pois | where_exp:"post","post.is_generated != true" %}
+    {% assign pois = site.pois | where_exp:"pois","pois.is_generated != true" %}
 {% endif %}
 
 {% if site.show_hero and paginator == nil or paginator.page == 1 %}
@@ -44,25 +44,25 @@ permalink: /wonders/
     {% endif %}
     <!-- pois -->
     <section id="grid" class="row flex-grid">
-        {% for post in pois offset: offset %}
+        {% for pois in pois offset: offset %}
             <article class="box-item">
                 <span class="category">
-                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
-                        <span>{{ post.category }}</span>
+                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ pois.category }}">
+                        <span>{{ pois.category }}</span>
                     </a>
                 </span>
                 <div class="box-body">
-                    <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
+                    <a class="cover" href="{{ pois.url | prepend: site.baseurl }}">
                         {% include loader.html %}
-                        {% if post.optimized_image %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image }}" class="preload">
+                        {% if pois.optimized_image %}
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ pois.optimized_image }}" class="preload">
                             <noscript>
-                                <img src="{{ post.optimized_image }}" width="100%">
+                                <img src="{{ pois.optimized_image }}" width="100%">
                             </noscript>
-                        {% elsif post.image %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.image }}" class="preload">
+                        {% elsif pois.image %}
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ pois.image }}" class="preload">
                             <noscript>
-                                <img src="{{ post.image }}" width="100%">
+                                <img src="{{ pois.image }}" width="100%">
                             </noscript>
                         {% else %}
                             <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
@@ -70,23 +70,23 @@ permalink: /wonders/
                                 <img src="/assets/img/off.jpg" width="100%">
                             </noscript>
                         {% endif %}
-                        {% include new-post-tag.html date=post.date %}
+                        {% include new-pois-tag.html date=pois.date %}
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
-                        <time datetime="{{ post.date | date_to_xmlschema }}" class="date">
-                            {% include date.html date=post.date %}
+                        <time datetime="{{ pois.date | date_to_xmlschema }}" class="date">
+                            {% include date.html date=pois.date %}
                         </time>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <h2 class="post-title">
-                                {{ post.title }}
+                        <a class="pois-link" href="{{ pois.url | prepend: site.baseurl }}">
+                            <h2 class="pois-title">
+                                {{ pois.title }}
                             </h2>
                         </a>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <p class="description">{{ post.description }}</p>
+                        <a class="pois-link" href="{{ pois.url | prepend: site.baseurl }}">
+                            <p class="description">{{ pois.description }}</p>
                         </a>
                         <div class="tags">
-                            {% for tag in post.tags %}
+                            {% for tag in pois.tags %}
                                 {% if tag != "" %}
                                     <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
                                 {% endif %}
@@ -147,19 +147,19 @@ permalink: /wonders/
         "@type": "ItemList",
         "itemListElement": [
         {% assign limit = 8 %}
-        {% for post in pois limit: limit %}
-            {% assign author = site.authors | where: "name", post.author | first %}
+        {% for pois in pois limit: limit %}
+            {% assign author = site.authors | where: "name", pois.author | first %}
             {
-                "@type": "BlogPosting",
-                "name": "{{ post.title }}",
-                "headline": "{{ post.subtitle }}",
-                "description": "{{ post.description }}",
-                "image": "{{ post.image }}",
-                "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+                "@type": "Blogpoising",
+                "name": "{{ pois.title }}",
+                "headline": "{{ pois.subtitle }}",
+                "description": "{{ pois.description }}",
+                "image": "{{ pois.image }}",
+                "url": "{{ pois.url | prepend: site.baseurl | prepend: site.url }}",
                 "inLanguage": "{{ site.language }}",
-                "dateCreated": "{{ post.date | date: '%Y-%m-%d/' }}",
-                "datePublished": "{{ post.date | date: '%Y-%m-%d/' }}",
-                "dateModified": "{{ post.date | date: '%Y-%m-%d/' }}",
+                "dateCreated": "{{ pois.date | date: '%Y-%m-%d/' }}",
+                "datePublished": "{{ pois.date | date: '%Y-%m-%d/' }}",
+                "dateModified": "{{ pois.date | date: '%Y-%m-%d/' }}",
                 "author": {
                     "@type": "Person",
                     "name": "{{ author.display_name }}",
@@ -177,9 +177,9 @@ permalink: /wonders/
                     }
                 },
                 "mainEntityOfPage": "True",
-                "genre": "{{ post.category | capitalize }}",
-		        "articleSection": "{{ post.category | capitalize }}",
-                "keywords": [{{ post.tags | join: '","' | append: '"' | prepend: '"' }}]
+                "genre": "{{ pois.category | capitalize }}",
+		        "articleSection": "{{ pois.category | capitalize }}",
+                "keywords": [{{ pois.tags | join: '","' | append: '"' | prepend: '"' }}]
             }{% if forloop.last == false  %},{% endif %}
         {% endfor %}
         ]
