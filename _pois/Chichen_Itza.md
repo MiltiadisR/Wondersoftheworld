@@ -53,7 +53,7 @@ image: >-
 
 </html>
 
-<div id="map" style="height: 180px; width:100%; background-color:lightgrey; "></div>
+<div id="map" style="height: 180px; width:30%; background-color:lightgrey; "></div>
 
 <!-- the logo of wikidata -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wikidata_Stamp_Rec_Light.svg" style="float:right; width:100px" />
