@@ -7,7 +7,7 @@ image: >-
 ---
 
 <p style="line-height: 3; color:#000000;">W</p>
-<h1 style="font-size:32px; color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;">{{page.title}}</h1>
+<h1 style="font-size:32px; color:#ffffff; font-family:Arial, sans-serif;">{{page.title}}</h1>
 <!-- Name title -->
 <!-- <h2 id="wikidata_title" style="color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;"></h2> -->
 <!-- <h3 id="wikidata_descr" style="color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;"></h3> -->
@@ -15,7 +15,7 @@ image: >-
 <img src="https://images.newscientist.com/wp-content/uploads/2018/08/02102950/gettyimages-938256100.jpg" style="width: 512px; height: 512px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px; float:right;" />
 <!-- the logo of wikipedia -->
 <a id="wikidata_href" target="_blank" style="color: #ffffff; padding-left: 30px;">https://el.wikipedia.org/wiki/Τσιτσέν Ιτζά </a>
-<a href="https://el.wikipedia.org/wiki/Τσιτσέν Ιτζά" target="_blank" style="color: #ffffff; padding-left: 30px;"> </a>
+<a href="https://el.wikipedia.org/wiki/Τσιτσέν Ιτζά" target="_blank" style="color: #ffffff; padding-left: 30px;">https://el.wikipedia.org/wiki/Τσιτσέν Ιτζά</a>
 <!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/archive/5/5a/20211013163259%21Wikipedia%27s_W.svg" alt="Wikipedia link" height="20px" style="padding-left: 30px; float:right;"/> <span id="wikipedia_title"> </a> -->
 <p id="wikidata_location"></p>
 
@@ -53,7 +53,7 @@ image: >-
 
 </html>
 
-<div id="map" style="height: 180px; width:30%; background-color:lightgrey; "></div>
+<div id="map" style="height: 180px; width:100%; background-color:lightgrey; "></div>
 
 <!-- the logo of wikidata -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wikidata_Stamp_Rec_Light.svg" style="float:right; width:100px" />
