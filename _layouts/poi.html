@@ -10,18 +10,7 @@ load_leaflet: 1
 <!-- <h2 id="wikidata_title" style="color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;"></h2> -->
 <!-- <h3 id="wikidata_descr" style="color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;"></h3> -->
 
-{% if poi.image %}
-   <img src="/assets/img/placeholder.png" width="100%" data-url="{{ poi.optimized_image }}" class="preload">
-   <noscript>
-      <img src="{{ poi.image }}" style="width: 512px; height: 512px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px; float:right;">
-   </noscript>
-{% else %}
-   <img src="/assets/img/placeholder.png" width="100%" data-url="{{ poi.image }}" class="preload">
-   <noscript>
-      <img id="wikidata_img" style="width: 512px; height: 512px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px; float:right;" />
-   </noscript>
-{% endif %}
-   
+<img id="wikidata_img" style="width: 512px; height: 512px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px; float:right;" />
 <!-- the logo of wikipedia -->
 <a id="wikidata_href" target="_blank" style="color: #ffffff; padding-left: 30px;"><span id="wikipedia_title"> </a>
 <!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/archive/5/5a/20211013163259%21Wikipedia%27s_W.svg" alt="Wikipedia link" height="20px" style="padding-left: 30px; float:right;"/> <span id="wikipedia_title"> </a> -->
