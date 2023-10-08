@@ -14,7 +14,6 @@ image: >-
 
 <img src="https://images.newscientist.com/wp-content/uploads/2018/08/02102950/gettyimages-938256100.jpg" style="width: 512px; height: 512px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px; float:right;" />
 <!-- the logo of wikipedia -->
-<a id="wikidata_href" target="_blank" style="color: #ffffff; padding-left: 30px;">https://el.wikipedia.org/wiki/Τσιτσέν Ιτζά </a>
 <a href="https://el.wikipedia.org/wiki/Τσιτσέν Ιτζά" target="_blank" style="color: #ffffff; padding-left: 30px;">https://el.wikipedia.org/wiki/Τσιτσέν Ιτζά</a>
 <!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/archive/5/5a/20211013163259%21Wikipedia%27s_W.svg" alt="Wikipedia link" height="20px" style="padding-left: 30px; float:right;"/> <span id="wikipedia_title"> </a> -->
 <p id="wikidata_location"></p>
@@ -54,6 +53,16 @@ image: >-
 </html>
 
 <div id="map" style="height: 180px; width:30%; background-color:lightgrey; "></div>
+
+<script>
+        function initMap() {
+            var coordinates = {lat: 20.683056, lng: -88.568611}; // Convert coordinates to decimal format
+            var map = new google.maps.Map(document.getElementById('map'), {
+                center: coordinates,
+                zoom: 8
+            });
+        }
+    </script>
 
 <!-- the logo of wikidata -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wikidata_Stamp_Rec_Light.svg" style="float:right; width:100px" />
