@@ -31,8 +31,9 @@
         </a>
       {% endif %}
     </p>
-
-    {% include links.html %}
+    {% for links in links.html %}
+      <a href="{{ link.url }}">{{ link.label }}</a>
+    {% endfor %}  
 
     <p>
       <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
