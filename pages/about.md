@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2023-10-01 01:53:59'
 title: About
 description: Some description.
 permalink: /about/
@@ -13,9 +13,6 @@ permalink: /about/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-    p {
-    color: #ffffff;
-}
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -45,7 +42,7 @@ permalink: /about/
 <strong><h1>About</h1></strong>
 
 <strong><h3>Introduction</h3></strong>
-<p>Welcome to WoTW, your gateway to the fascinating world of the Wonders of the World. We are passionate about exploring and celebrating the extraordinary achievements of human civilization throughout history.</p>
+<p style="color: #ffffff;">Welcome to WoTW, your gateway to the fascinating world of the Wonders of the World. We are passionate about exploring and celebrating the extraordinary achievements of human civilization throughout history.</p>
 
 <strong><h3>Our Mission</h3></strong>
 <p>At WoTW, our mission is to educate, inspire, and instill a sense of wonder about the remarkable feats of architecture, engineering, and creativity that have shaped our world. Through engaging content, stunning visuals, and in-depth research, we aim to bring the stories behind these wonders to life.</p>
