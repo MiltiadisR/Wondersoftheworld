@@ -1,5 +1,5 @@
-<footer style="align-items: center;">
-    <p>
+<footer >
+    <p style="align-items: center;">
       {% if site.github_username %}
         <a href="https://github.com/{{ site.github_username }}" title="Github">
           <svg><use xlink:href="#icon-github"></use></svg>
@@ -31,13 +31,15 @@
         </a>
       {% endif %}
     </p>
-    {% for item in site.menu %}
-      {% if item.title and item.url %}
-        <a style="padding-right: 15px;" href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-      {% endif %}
-    {% endfor %}  
+    <p style="align-items: center;"></p>
+      {% for item in site.menu %}
+        {% if item.title and item.url %}
+          <a style="padding-right: 15px;" href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+        {% endif %}
+      {% endfor %}
+  </p>
 
-    <p>
+    <p style="align-items: center;">
       <span>© 2023</span> Wonders of The World</a>
     </p>
 </footer>
