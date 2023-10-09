@@ -31,8 +31,10 @@
         </a>
       {% endif %}
     </p>
-    {% for links in links.html %}
-      <a href="{{ link.url }}">{{ link.label }}</a>
+    {% for item in site.menu %}
+      {% if item.title and item.url %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
     {% endfor %}  
 
     <p>
