@@ -88,7 +88,8 @@ permalink: /about/
         </div>
     </div>
 </div>
+
+<p style="color: #ffffff;">Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.</p>
+
 </body>
 </html>
-
-Thank you for joining us on this journey of discovery and appreciation. Together, let's celebrate the marvels that define our world.
