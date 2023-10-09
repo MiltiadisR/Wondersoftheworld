@@ -3,9 +3,9 @@ layout: main
 ---
 
 {% if site.paginate %}
-    {% assign dpois = paginator.dpois | where_exp:"post","post.is_generated != true" %}
+    {% assign pois = paginator.pois | where_exp:"post","post.is_generated != true" %}
 {% else %}
-    {% assign dpois = site.dpois | where_exp:"post","post.is_generated != true" %}
+    {% assign pois = site.pois | where_exp:"post","post.is_generated != true" %}
 {% endif %}
 
 {% if site.show_hero and paginator == nil or paginator.page == 1 %}
@@ -40,9 +40,9 @@ layout: main
             </div>
         </section>
     {% endif %}
-    <!-- dpois -->
+    <!-- pois -->
     <section id="grid" class="row flex-grid">
-        {% for post in dpois offset: offset %}
+        {% for post in pois offset: offset %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
@@ -145,7 +145,7 @@ layout: main
         "@type": "ItemList",
         "itemListElement": [
         {% assign limit = 8 %}
-        {% for post in dpois limit: limit %}
+        {% for post in pois limit: limit %}
             {% assign author = site.authors | where: "name", post.author | first %}
             {
                 "@type": "BlogPosting",
