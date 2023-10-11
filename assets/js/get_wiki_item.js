@@ -14,7 +14,7 @@ function get_wikidatum(id){
           if (description)
             $('#wikidata_descr').text( get_first_upper(description) );
 
-          let elwikititle = get_json_value(['entities',id,'sitelinks','elwiki','title'], data);
+          let elwikititle = get_json_value(['entities',id,'sitelinks','enwiki','title'], data);
           if (elwikititle) {
             $('#wikidata_title').text( get_first_upper(elwikititle) );
             $('#wikidata_href').attr('href', 'https://el.wikipedia.org/wiki/'+elwikititle );
