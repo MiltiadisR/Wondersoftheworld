@@ -19,7 +19,7 @@
     ];
     
     {% for post in pois offset: offset %}
-    sites.append("{{ post.url | prepend: site.baseurl }}">
+    sites.append("{{ post.url | prepend: site.baseurl }}")
     {% endfor %}
 
     function randomSite() {
