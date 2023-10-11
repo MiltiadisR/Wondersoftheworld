@@ -36,7 +36,7 @@ function get_wikidatum(id){
               var map = L.map('map', {fullscreenControl: { pseudoFullscreen: true } }).setView([latlong.latitude, latlong.longitude], 13);
               L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '© OpenStreetMap'}).addTo(map);
               var marker = L.marker([latlong.latitude, latlong.longitude]).addTo(map);
-              marker.bindPopup(elwikititle).openPopup();
+              marker.bindPopup(enwikititle).openPopup();
           }
 
           let image = get_json_value(['entities',id,'claims','P18', 0,'mainsnak', 'datavalue', 'value'], data);
