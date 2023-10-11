@@ -14,11 +14,18 @@ function get_wikidatum(id){
           if (description)
             $('#wikidata_descr').text( get_first_upper(description) );
 
-          let elwikititle = get_json_value(['entities',id,'sitelinks','enwiki','title'], data);
+          let elwikititle = get_json_value(['entities',id,'sitelinks','elwiki','title'], data);
           if (elwikititle) {
             $('#wikidata_title').text( get_first_upper(elwikititle) );
             $('#wikidata_href').attr('href', 'https://el.wikipedia.org/wiki/'+elwikititle );
             $('#wikipedia_title').text('https://el.wikipedia.org/wiki/'+elwikititle );
+          }
+
+          let enwikititle = get_json_value(['entities',id,'sitelinks','enwiki','title'], data);
+          if (enwikititle) {
+            $('#wikidata_title_en').text( get_first_upper(elwikititle) );
+            $('#wikidata_href_en').attr('href', 'https://en.wikipedia.org/wiki/'+enwikititle );
+            $('#wikipedia_title_en').text('https://en.wikipedia.org/wiki/'+enwikititle );
           }
 
 
