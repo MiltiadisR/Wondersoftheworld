@@ -16,11 +16,21 @@
     </a>
     <script>
     var sites = [
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Chichen_Itza/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Christ_the_Redeemer/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Colosseum/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Colossus_of_Rhodes/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Great_Pyramid_of_Giza/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Great_Wall_of_China/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Hanging_Gardens_of_Babylon/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Lighthouse_of_Alexandria/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Machu_Picchu/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Mausoleum_of_Maussollos/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Petra_of_Jordan/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Statue_of_Zeus_at_Olympia/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Taj_Mahal/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Temple_of_Artemis/'
     ];
-    
-    {% for post in pois offset: offset %}
-        sites.append("{{ post.url | prepend: site.baseurl }}")
-    {% endfor %}
 
     function randomSite() {
         var i = parseInt(Math.random() * sites.length);
