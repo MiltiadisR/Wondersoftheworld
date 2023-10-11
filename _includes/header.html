@@ -15,32 +15,29 @@
         <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
     </a>
     <script>
-    function randomSite() {
-        var sites = [
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Chichen_Itza/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Christ_the_Redeemer/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Colosseum/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Colossus_of_Rhodes/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Great_Pyramid_of_Giza/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Great_Wall_of_China/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Hanging_Gardens_of_Babylon/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Lighthouse_of_Alexandria/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Machu_Picchu/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Mausoleum_of_Maussollos/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Petra_of_Jordan/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Statue_of_Zeus_at_Olympia/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Taj_Mahal/',
-            'https://miltiadisr.github.io/Wondersoftheworld/pois/Temple_of_Artemis/'
-        ];
+    var sites = [
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Chichen_Itza/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Christ_the_Redeemer/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Colosseum/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Colossus_of_Rhodes/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Great_Pyramid_of_Giza/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Great_Wall_of_China/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Hanging_Gardens_of_Babylon/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Lighthouse_of_Alexandria/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Machu_Picchu/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Mausoleum_of_Maussollos/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Petra_of_Jordan/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Statue_of_Zeus_at_Olympia/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Taj_Mahal/',
+        'https://miltiadisr.github.io/Wondersoftheworld/pois/Temple_of_Artemis/'
+    ];
 
-        openSite = function() {
-            var i = parseInt(Math.random() * sites.length);
-            i = parseInt(i, 10)
-            link = sites[i];
-        };
-        return link;
+    function randomSite() {
+        var i = parseInt(Math.random() * sites.length);
+        location.href = sites[i];
+    }
 </script>
-<a href="javascript:openSite()" class="get-theme" role="button">Random</a>
+<a href="#" onclick="randomSite();" target="_blank" class="get-theme" role="button">Random</a>
 </header>
 
 <div id="mask" class="overlay"></div>
