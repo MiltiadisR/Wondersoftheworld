@@ -16,11 +16,11 @@
     </a>
     <script>
     var sites = [
-        'http://www.google.com',
-        'http://www.stackoverflow.com',
-        'http://www.example.com',
-        'http://www.youtube.com'
     ];
+    
+    {% for post in pois offset: offset %}
+    sites.append("{{ post.url | prepend: site.baseurl }}">
+    {% endfor %}
 
     function randomSite() {
         var i = parseInt(Math.random() * sites.length);
