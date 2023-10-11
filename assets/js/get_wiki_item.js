@@ -11,8 +11,8 @@ function get_wikidatum(id){
           //console.log( "Success; entities returned: ", Object.keys(data).length );
 
           let description = get_json_value(['entities',id,'descriptions','el','value'], data);
-          if (description) 
-            $('#wikidata_descr').text( get_first_upper(description) );        
+          if (description)
+            $('#wikidata_descr').text( get_first_upper(description) );
 
           let elwikititle = get_json_value(['entities',id,'sitelinks','elwiki','title'], data);
           if (elwikititle) {
