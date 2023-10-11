@@ -14,6 +14,10 @@ function get_wikidatum(id){
           if (description)
             $('#wikidata_descr').text( get_first_upper(description) );
 
+            let description = get_json_value(['entities',id,'descriptions','en','value'], data);
+            if (description)
+                $('#wikidata_descr_en').text( get_first_upper(description) );        
+
           let elwikititle = get_json_value(['entities',id,'sitelinks','elwiki','title'], data);
           if (elwikititle) {
             $('#wikidata_title').text( get_first_upper(elwikititle) );
