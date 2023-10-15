@@ -38,17 +38,6 @@ load_leaflet: 1
         a:hover {
             text-decoration: underline;
         }
-        svg {
-            @include size(28, 28);
-            display: inline-block;
-            vertical-align: middle;
-            margin-right: rem(10px);
-
-            @include media(">=sm") {
-            margin-right: rem(20px);
-            }
-
-        }
     </style>
 
 {{ content }}
@@ -65,7 +54,7 @@ load_leaflet: 1
         </a>
         {% endif %}
         {% if site.twitter_username %}
-        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+        <a style="width: 28px; height: 28px;" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
             <svg><use xlink:href="#icon-twitter"></use></svg>
         </a>
         {% endif %}
