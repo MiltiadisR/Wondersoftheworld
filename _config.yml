@@ -4,10 +4,9 @@ title: Wonders of The World
 description: Wonders of The World, your gateway to the fascinating world of the Wonders of the World. We are passionate about exploring and celebrating the extraordinary achievements of human civilization throughout history.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Wonder of The World
+  - Ancient
+  - Modern
 show_hero: true
 menu:
   - title: Home
