@@ -70,7 +70,7 @@ permalink: /wonders/
                                 <img src="/assets/img/off.jpg" width="100%">
                             </noscript>
                         {% endif %}
-                        {% include new-post-tag.html date=post.date %}
+                        <!--{% include new-post-tag.html date=post.date %} -->
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
