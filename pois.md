@@ -33,13 +33,15 @@ permalink: /wonders/
                 </time>
                 <h1 class="title">{{ featured.title }}</h1>
                 <p class="description">{{ featured.description }}</p>
-                <p class="tags">
+                <p>
+                    <div class="tags">
                             {% for tag in featured.tags %}
                                 {% if tag != "" %}
-                                    <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                                    <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}" style="color:#ffffff; ">#{{ tag }}</a>
                                 {% endif %}
                             {% endfor %}
-                        </p>
+                        </div>
+                    </p>
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
                         <svg><use xlink:href="#icon-read"></use></svg>
