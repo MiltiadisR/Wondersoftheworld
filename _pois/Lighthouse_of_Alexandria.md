@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q43244
 title:  Lighthouse of Alexandria
+tags: Ancient Egypt Lighthouse
+description: Ancient beacon at Alexandria's port, guiding ships with unmatched engineering.
 image: >-
     https://i0.wp.com/yesofcorsa.com/wp-content/uploads/2017/03/The-lighthouse-of-Alexandria-Photo.jpg
 ---

@@ -2,11 +2,8 @@
 layout: poi
 wikidatum: Q10285
 title:  Colosseum
-description: wikidata_descr
-tags: 
-    - wonders
-    - ancient
-    - new
+tags: Ancient Rome Amphitheater
+description: Spectacular Roman arena for gladiatorial contests, an architectural masterpiece.
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/c/cf/Coliseo%2C_Roma%2C_Italia%2C_2022-09-15%2C_DD_96.jpg
 ---

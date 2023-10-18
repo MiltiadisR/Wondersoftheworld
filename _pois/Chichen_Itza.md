@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q5859
 title:  Chichen Itza
+tags: Modern Mexico Archeology
+description: Ancient Mayan city with the iconic El Castillo pyramid, a cultural treasure.
 image: >-
     https://images.newscientist.com/wp-content/uploads/2018/08/02102950/gettyimages-938256100.jpg
 ---

@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q5788
 title:  Petra of Jordan
+tags: Modern Jordan Archeology
+description: Remarkable rock-carved city in Jordan's desert, a testament to ancient engineering.
 image: >- 
     https://cdn2.photostockeditor.com/c/0201/architecture-petra-jordan-during-daytime-building-building-image.jpg
 ---

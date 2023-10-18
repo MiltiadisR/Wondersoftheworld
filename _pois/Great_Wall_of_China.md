@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q12501
 title:  Great Wall of China
+tags: Modern China Wall
+description: Over 13,000 miles of defensive wonder, a symbol of China's rich history.
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg/1000px-The_Great_Wall_of_China_at_Jinshanling.jpg
 ---

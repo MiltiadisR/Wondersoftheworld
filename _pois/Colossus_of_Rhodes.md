@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q41553
 title:  Colossus of Rhodes
+tags: Modern India Mausoleum
+description: A sublime mausoleum in Agra, a testament to Mughal architectural brilliance.
 image: >-
     https://i0.wp.com/www.travelletter.net/wp-content/uploads/2023/03/Colossus-of-Rhodes.jpg?w=820&ssl=1
 ---

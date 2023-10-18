@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q46239
 title:  Statue of Zeus at Olympia
+tags: Ancient Greece Statue
+description: Majestic statue of Zeus, a testament to ancient Greek artistry and craftsmanship.
 image: >-
     https://www.ancient-origins.net/sites/default/files/field/image/statue-of-Zeus-Olympia.jpg
 ---

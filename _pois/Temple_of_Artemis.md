@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q43018
 title:  Temple of Artemis
+tags: Ancient Turkey Temple
+description: Once a grand Greek temple, an architectural triumph in ancient Ephesus.
 image: >-
     https://th.bing.com/th/id/OIP.5CJU9H3rDXoJCgYzTUjpxgHaEI?pid=ImgDet&rs=1
 ---

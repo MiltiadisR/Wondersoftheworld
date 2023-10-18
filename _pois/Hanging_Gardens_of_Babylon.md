@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q41931
 title:  Hanging Gardens of Babylon
+tags: Ancient Mesopotamia Gardens
+description: Lush terraced gardens in ancient Babylon, a testament to horticultural ingenuity.
 image: >-
     https://th.bing.com/th/id/R.ee4af21e8eaed854cdbeffabd16f6a6c?rik=0QLtoAMNDGM2NA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Zd5lY9K0Q7M%2fT-_6lIRjFBI%2fAAAAAAAAAGk%2fQjh0Xx2dcCc%2fs1600%2fThe%2bHanging%2bGardens%2bof%2bBabylon.jpg&ehk=i38DdN9bFDN6TtV2eygoQIGJ88TmbYrtQMSpoG%2fahQA%3d&risl=&pid=ImgRaw&r=0
 ---

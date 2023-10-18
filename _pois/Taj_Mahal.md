@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q9141
 title:  Taj Mahal
+tags: Modern India Mausoleum
+description: A sublime mausoleum in Agra, a testament to Mughal architectural brilliance.
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg
 ---

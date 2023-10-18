@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q676203
 title:  Machu Picchu
+tags: Modern Peru Archeology
+description: Incan citadel in the Andes, an architectural marvel and archaeological gem.
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg
 ---

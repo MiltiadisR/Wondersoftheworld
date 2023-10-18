@@ -2,6 +2,8 @@
 layout: poi
 wikidatum: Q45368
 title:  Mausoleum of Maussollos
+tags: Ancient Turkey Mausoleum
+description: Grand tomb in Halicarnassus, an architectural wonder of antiquity.
 image: >-
     https://img1.advisor.travel/1200x630px-Mausoleum_of_Maussollos_31.jpg
 ---
