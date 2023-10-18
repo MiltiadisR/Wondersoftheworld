@@ -34,7 +34,7 @@ permalink: /wonders/
                 <h1 class="title">{{ featured.title }}</h1>
                 <p class="description">{{ featured.description }}</p>
                 <p class="tags">
-                            {% for tag in post.tags %}
+                            {% for tag in featured.tags %}
                                 {% if tag != "" %}
                                     <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
                                 {% endif %}
