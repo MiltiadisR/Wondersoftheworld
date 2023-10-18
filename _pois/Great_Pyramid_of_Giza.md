@@ -2,8 +2,8 @@
 layout: poi
 wikidatum: Q37200
 title:  Great Pyramid of Giza
-Tags: Ancient, Egypt, Pyramids
-Description: The Great Pyramid of Giza is one of the most iconic structures in human history. Built over 4,500 years ago as a tomb for Pharaoh Khufu, it stands as a testament to the engineering marvels of ancient Egypt. Its precise construction and alignment with the cardinal points continue to fascinate historians and architects to this day.
+tags: Ancient, Egypt, Pyramids
+description: The Great Pyramid of Giza is one of the most iconic structures in human history. Built over 4,500 years ago as a tomb for Pharaoh Khufu, it stands as a testament to the engineering marvels of ancient Egypt. Its precise construction and alignment with the cardinal points continue to fascinate historians and architects to this day.
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg
 ---
