@@ -7,6 +7,9 @@ description: Ancient beacon at Alexandria's port, guiding ships with unmatched e
 image: >-
     https://i0.wp.com/yesofcorsa.com/wp-content/uploads/2017/03/The-lighthouse-of-Alexandria-Photo.jpg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Egypt,Lighthouse">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Lighthouse of Alexandria</strong>, also known as the <strong>Pharos of Alexandria</strong>, was a marvel of ancient engineering and one of the Seven Wonders of the Ancient World. It stood as a towering beacon on the small island of Pharos, which was connected to the city of Alexandria in Egypt. Constructed during the reign of Ptolemy II Philadelphus, around 280 BC, the lighthouse was designed to guide ships safely into the bustling port, known for its significant trade and commerce. The project was attributed to the ingenious Greek architect Sostratus of Cnidus, and its purpose was to prevent shipwrecks in the treacherous waters near the harbor entrance.</p>
 
 <p>This architectural masterpiece reached an estimated height between 100 and 130 meters (330 to 430 feet), making it one of the tallest structures of the ancient world. Its primary innovation was a combination of an enormous open flame and a polished bronze mirror, which created a powerful concentrated beam of light that could be seen from great distances. This made it an invaluable aid to navigation for sailors approaching the busy port, ensuring safe passage through the otherwise perilous waters.</p>

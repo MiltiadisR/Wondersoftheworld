@@ -7,6 +7,9 @@ description: A sublime mausoleum in Agra, a testament to Mughal architectural br
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Modern,India,Mausoleum">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Taj Mahal</strong> is an architectural masterpiece located in Agra, India. It stands as a symbol of enduring love, as it was commissioned by the Mughal Emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal. Constructed between 1632 and 1648, the Taj Mahal is renowned for its impeccable blend of Persian, Islamic, and Indian architectural styles. It is considered one of the most exquisite examples of Mughal architecture, characterized by its white marble facade and intricate embellishments.</p>
 
 <p>Set on the southern bank of the Yamuna River, the Taj Mahal's complex encompasses a symmetrical garden, a mosque, and a guest house. The central mausoleum is the focal point, with its distinctive, onion-shaped dome towering above. The symmetrical layout is a testament to the precision and artistry of the artisans and architects involved in its creation.</p>

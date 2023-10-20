@@ -4,6 +4,9 @@ title: Wonders
 permalink: /wonders/
 
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Wonders,ancient,new">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 {% if site.paginate %}
     {% assign pois = paginator.pois | where_exp:"post","post.is_generated != true" %}

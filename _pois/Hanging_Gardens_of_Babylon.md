@@ -7,6 +7,9 @@ description: Lush terraced gardens in ancient Babylon, a testament to horticultu
 image: >-
     https://th.bing.com/th/id/R.ee4af21e8eaed854cdbeffabd16f6a6c?rik=0QLtoAMNDGM2NA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Zd5lY9K0Q7M%2fT-_6lIRjFBI%2fAAAAAAAAAGk%2fQjh0Xx2dcCc%2fs1600%2fThe%2bHanging%2bGardens%2bof%2bBabylon.jpg&ehk=i38DdN9bFDN6TtV2eygoQIGJ88TmbYrtQMSpoG%2fahQA%3d&risl=&pid=ImgRaw&r=0
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Mesopotamia ,Gardens">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Hanging Gardens of Babylon</strong> are renowned as one of the most extraordinary feats of ancient engineering and horticulture. These gardens were said to be an elaborate series of terraced gardens with a wide variety of trees, shrubs, and vines, all supported by an intricate system of arches, columns, and staircases. Despite their fame, there is some debate among historians about their existence, as no definitive archaeological evidence has been discovered to confirm their location or construction.</p>
 
 <p>According to ancient accounts, the gardens were purportedly built in the ancient city of Babylon, which was located near present-day Baghdad in Iraq, during the reign of King Nebuchadnezzar II (c. 605–c. 562 BC). It is said that the gardens were constructed to console his homesick wife, Queen Amytis of Media, who longed for the lush green landscapes of her homeland.</p>

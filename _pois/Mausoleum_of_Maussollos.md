@@ -7,6 +7,9 @@ description: Grand tomb in Halicarnassus, an architectural wonder of antiquity.
 image: >-
     https://img1.advisor.travel/1200x630px-Mausoleum_of_Maussollos_31.jpg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Turkey,Mausoleum">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Mausoleum of Maussollos</strong>, also known as the <strong>Mausoleum at Halicarnassus</strong>, was an ancient tomb constructed in the city of Halicarnassus, located in present-day Bodrum, Turkey. This remarkable structure was commissioned by Artemisia II of Caria, the sister and wife of Mausollos, the satrap (governor) of the Persian province of Caria. Built between 353 and 350 BC, it was a testament to Mausollos' influence and power, showcasing the grandeur and architectural prowess of the time.</p>
 
 <p>Standing at an estimated height of 45 meters (148 feet), the mausoleum was a fusion of various architectural styles, reflecting the cosmopolitan nature of the region. It featured an intricate blend of Greek, Persian, and Egyptian influences, characterized by a stepped pyramid structure adorned with sculptural reliefs and decorative friezes. The lavish ornamentation and detailed craftsmanship were indicative of the Hellenistic architectural tradition.</p>

@@ -7,7 +7,9 @@ description: Over 13,000 miles of defensive wonder, a symbol of China's rich his
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg/1000px-The_Great_Wall_of_China_at_Jinshanling.jpg
 ---
-
+<meta charset="UTF-8">
+<meta name="keywords" content="Modern,China,Wall">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>    The <strong>Great Wall of China</strong> stands as an ancient marvel of engineering, recognized globally for its status as the world's longest wall, spanning an astonishing 21,196 kilometers (13,171 miles). Its construction commenced in the 7th century BC and unfolded over centuries, with various Chinese dynasties contributing to its expansion. Initially championed by Qin Shi Huang, the first Emperor of China during the Qin Dynasty (221–206 BC), the most renowned segments, such as Badaling and Mutianyu, were extensively fortified and restored during the Ming Dynasty (1368–1644 AD).</p>
 
 <p>    This monumental structure held a pivotal role in China's history, serving as a formidable defense against invasions, particularly from the north, where nomadic tribes, notably the Xiongnu, posed significant threats. Beyond its utilitarian purpose, the Great Wall embodies the enduring spirit of Chinese civilization.</p>

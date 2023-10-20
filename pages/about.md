@@ -3,7 +3,7 @@ layout: page
 menu: false
 date: '2023-10-01 01:53:59'
 title: About
-description: Some description.
+description: Welcome to WoTW, your gateway to the fascinating world of the Wonders of the World. We are passionate about exploring and celebrating the extraordinary achievements of human civilization throughout history
 permalink: /about/
 ---
 

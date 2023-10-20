@@ -7,6 +7,9 @@ description: Enormous bronze statue of the sun god Helios, once graced the harbo
 image: >-
     https://i0.wp.com/www.travelletter.net/wp-content/uploads/2023/03/Colossus-of-Rhodes.jpg?w=820&ssl=1
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Greece,Statue">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Colossus of Rhodes</strong> was a colossal statue of the Greek god Helios, erected on the island of Rhodes in Greece. This awe-inspiring monument was constructed between 292 and 280 BC, following a successful defense of the island against a siege by the ruler of Cyprus, Antigonus I Monophthalmus. Designed by the sculptor Chares of Lindos, the statue was an embodiment of ancient Greek artistry and engineering prowess. Standing at an estimated height of 33 meters (108 feet), it was considered one of the Seven Wonders of the Ancient World.</p>
 
 <p>The Colossus was cast in bronze, with an iron framework providing structural support. It was situated near the harbor entrance, allowing ships to pass beneath its legs. However, despite its legendary status, there exists scholarly debate regarding the statue's actual pose, with some suggesting it stood with legs together and others proposing a more open stance. Regardless, the Colossus was celebrated for its sheer size and artistic achievement.</p>

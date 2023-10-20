@@ -7,6 +7,9 @@ description: Iconic tomb of Pharaoh Khufu, an ancient marvel of precision engine
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Egypt,Pyramids">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Great Pyramid of Giza</strong>, also known as the <em>Pyramid of Khufu</em> or the <em>Pyramid of Cheops</em>, is a monumental structure located on the Giza Plateau near Cairo, Egypt. It is the largest and oldest of the three pyramids in the Giza pyramid complex and is considered one of the Seven Wonders of the Ancient World. Believed to have been constructed during the Fourth Dynasty of the Old Kingdom of Egypt, around 2580–2560 BC, the pyramid is attributed to Pharaoh Khufu, for whom it was built as a grand tomb.</p>
 
 <p>This architectural masterpiece stands at an original height of approximately 146.6 meters (481 feet) and was the tallest man-made structure in the world for over 3,800 years. Comprising an estimated 2.3 million blocks of limestone and granite, each weighing several tons, the construction of the pyramid remains a subject of fascination and debate among historians and archaeologists. The precision and sophistication of its engineering are remarkable, showcasing the advanced knowledge of ancient Egyptian civilization.</p>

@@ -7,6 +7,9 @@ description: Majestic statue of Zeus, a testament to ancient Greek artistry and 
 image: >-
     https://www.ancient-origins.net/sites/default/files/field/image/statue-of-Zeus-Olympia.jpg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Greece,Statue">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Statue of Zeus at Olympia</strong> was an ancient marvel of Greek art and architecture, situated in the sanctuary of Olympia, Greece. Crafted by the renowned sculptor Phidias around 435 BC, this colossal statue depicted the king of the Greek gods, Zeus, seated on a grand throne. Towering at approximately 12 meters (39 feet) in height, it was adorned with precious materials such as ivory and gold. The statue served as a testament to the artistic and engineering prowess of ancient Greece and stood as one of the Seven Wonders of the Ancient World.</p>
 
 <p>This monumental creation held a central place in the cult of Zeus and was housed within the Temple of Zeus at Olympia. It was a symbol of religious devotion and a manifestation of the Greek ideal of physical and divine perfection. The statue's construction was a collaborative effort, with Phidias overseeing the artistic aspects and various skilled craftsmen contributing to its intricate details.</p>

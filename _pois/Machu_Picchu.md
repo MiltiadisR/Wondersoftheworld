@@ -7,6 +7,9 @@ description: Incan citadel in the Andes, an architectural marvel and archaeologi
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Modern,Peru,Archeology">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p><strong>Machu Picchu</strong> is an ancient Incan citadel nestled in the Andes Mountains of Peru. Situated at an altitude of approximately 2,430 meters (7,970 feet), it is renowned for its breathtaking panoramic views and sophisticated dry-stone construction. This archaeological marvel is believed to have been constructed in the 15th century, during the reign of the Inca emperor Pachacuti Inca Yupanqui.</p>
 
 <p>The architectural brilliance of Machu Picchu is exemplified by its precisely cut stones, a hallmark of Incan construction. The site is divided into two main areas: the agricultural sector, featuring terraced fields, and the urban sector, with temples, plazas, and residential buildings. Its exact purpose remains a subject of scholarly debate, with theories ranging from a royal estate to an astronomical observatory or religious sanctuary.</p>

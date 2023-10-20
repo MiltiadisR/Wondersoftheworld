@@ -7,6 +7,9 @@ description: Once a grand Greek temple, an architectural triumph in ancient Ephe
 image: >-
     https://th.bing.com/th/id/OIP.5CJU9H3rDXoJCgYzTUjpxgHaEI?pid=ImgDet&rs=1
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Turkey,Temple">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Temple of Artemis</strong>, also known as the <strong>Artemision</strong>, was an ancient Greek temple dedicated to the goddess Artemis. Located in the ancient city of Ephesus, in present-day Turkey, it was considered one of the Seven Wonders of the Ancient World. This architectural masterpiece was designed by the Greek architect Chersiphron and his son Metagenes and was constructed in the 6th century BC, funded by the wealthy King Croesus of Lydia.</p>
 
 <p>The temple's grandeur was evident in its sheer size, with dimensions approximately 137 by 69 meters (450 by 225 feet), making it one of the largest temples of antiquity. It was adorned with 127 columns, each standing over 18 meters (60 feet) in height. The columns were sculpted with intricate reliefs and were said to be gifts from various Greek city-states and rulers. The temple's central cult statue of Artemis was crafted by the renowned Greek sculptor Endoios.</p>

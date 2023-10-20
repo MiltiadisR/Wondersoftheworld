@@ -7,6 +7,9 @@ description: Spectacular Roman arena for gladiatorial contests, an architectural
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/c/cf/Coliseo%2C_Roma%2C_Italia%2C_2022-09-15%2C_DD_96.jpg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Ancient,Rome,Amphitheater">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Colosseum</strong>, also known as the Flavian Amphitheatre, stands as an ancient Roman marvel and one of the most iconic landmarks in the world. Constructed between 70 and 80 AD, during the Flavian dynasty, it is situated in the heart of Rome, Italy. This grand amphitheater was primarily designed for gladiatorial contests and public spectacles, such as animal hunts, mock sea battles, and executions. Its elliptical shape, with dimensions of 189 meters by 156 meters (615 ft by 510 ft), and a height of over 48 meters (157 ft), made it one of the largest amphitheaters of its time.</p>
 
 <p>The Colosseum was capable of seating approximately 50,000 to 80,000 spectators, showcasing its immense capacity for hosting a wide array of events. Its construction utilized concrete and sand, representing a revolutionary engineering achievement of ancient Rome. The exterior featured a distinctive facade of travertine stone, now largely absent due to centuries of natural disasters, vandalism, and repurposing of its materials.</p>

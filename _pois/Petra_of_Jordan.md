@@ -7,6 +7,9 @@ description: Remarkable rock-carved city in Jordan's desert, a testament to anci
 image: >- 
     https://cdn2.photostockeditor.com/c/0201/architecture-petra-jordan-during-daytime-building-building-image.jpg
 ---
+<meta charset="UTF-8">
+<meta name="keywords" content="Modern,Jordan,Archeology">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p><strong>Petra</strong> is an archaeological and historical city located in southern Jordan, famous for its elaborate rock-cut architecture and intricate water conduit system. This ancient Nabatean city, situated between the Red Sea and the Dead Sea, flourished in the 4th century BC and later became the capital of the Nabatean Kingdom. Petra's distinctive rose-red sandstone structures, including the iconic Treasury (Al-Khazneh) and Monastery (Ad Deir), are renowned worldwide for their architectural splendor.</p>
 
 <p>Founded possibly as early as 312 BC, Petra was strategically positioned along ancient trade routes, enabling it to thrive as a center for commerce and culture. The city's most celebrated structures were hewn directly into the rose-red cliffs, showcasing the advanced engineering prowess of the Nabateans. The intricate water management system, which included dams, cisterns, and channels, allowed Petra to sustain a thriving population in an arid desert environment.</p>
