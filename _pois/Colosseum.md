@@ -2,13 +2,13 @@
 layout: poi
 wikidatum: Q10285
 title:  Colosseum
-tags: Ancient Rome Amphitheater
+tags: Modern Rome Amphitheater
 description: Spectacular Roman arena for gladiatorial contests, an architectural masterpiece.
 image: >-
     https://upload.wikimedia.org/wikipedia/commons/c/cf/Coliseo%2C_Roma%2C_Italia%2C_2022-09-15%2C_DD_96.jpg
 ---
 <meta charset="UTF-8">
-<meta name="keywords" content="Ancient,Rome,Amphitheater">
+<meta name="keywords" content="Modern,Rome,Amphitheater">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>The <strong>Colosseum</strong>, also known as the Flavian Amphitheatre, stands as an ancient Roman marvel and one of the most iconic landmarks in the world. Constructed between 70 and 80 AD, during the Flavian dynasty, it is situated in the heart of Rome, Italy. This grand amphitheater was primarily designed for gladiatorial contests and public spectacles, such as animal hunts, mock sea battles, and executions. Its elliptical shape, with dimensions of 189 meters by 156 meters (615 ft by 510 ft), and a height of over 48 meters (157 ft), made it one of the largest amphitheaters of its time.</p>
 
