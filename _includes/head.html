@@ -16,7 +16,7 @@
     {% if page.image %}
         {% assign image = page.image %}
     {% else %}
-        {% assign image = "https://github.com/MiltiadisR/Wondersoftheworld/blob/3e12023447ada02f5fd318d572c611a3a19bf79b/assets/img/blog-image.png" %}
+        {% assign image = "/assets/img/blog-image.jpg" | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
     {% assign description = '' %}
